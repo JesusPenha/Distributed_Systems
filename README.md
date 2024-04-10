@@ -13,10 +13,22 @@ Se inicia con la clase relacionada con la Introducción a los Sistemas Distribui
 
 ### Unidades temáticas
 
-1. Sistemas Distribuidos
-a. Definición
-b. Ventajas y desventajas
-c. Desafíos
-d. Clasificación
+1. Sistemas Distribuidos \
+a. Definición \
+b. Ventajas y desventajas \
+c. Desafíos \
+d. Clasificación \
 
 ### Actividad: Conexión cliente-servidor usando socket
+
+
+### Referencias
+[Coulouris et al., 2000] Coulouris, G. F., Dollimore, J., and Kindberg, T. (2000).
+Distributed Systems. International Computer Science Series. Addison Wesley,
+Boston, MA, 3 edition.
+[Ghosh and Ghosh, 2023] Ghosh, R. K. and Ghosh, H. (2023). Distributed sys-
+tems. Wiley-Blackwell, Hoboken, NJ.
+[Tanenbaum and van Steen, 2006] Tanenbaum, A. S. and van Steen, M. (2006).
+Distributed systems. Pearson, Upper Saddle River, NJ, 2 edition.
+[Tanenbaum and Van Steen, 2023] Tanenbaum, A. S. and Van Steen, M. (2023).
+Distributed Systems. Maarten Van Steen
