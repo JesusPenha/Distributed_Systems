@@ -1,2 +1,5 @@
-# Distributed_Systems
-Material of the Distributes Systems course
+# Sistemas Distribuidos
+Material de clase
+
+
+## Talle1: Conexión cliente-servidor usando socket
