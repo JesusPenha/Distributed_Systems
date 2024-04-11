@@ -1,6 +1,7 @@
 # Sistemas Distribuidos
-Material de clase
+Jesús Peña Rodríguez
 
+En este repositorio se concentra el material de apoyo usado para el curso Sistemas Distribuidos. Este material se compone de las notas de clase, ruta de aprendizaje y códigos de programación.
 
 ## Clase 1: Introducción a los sistemas distribuidos
 
@@ -21,7 +22,9 @@ d. Clasificación
 
 ### Actividad: Conexión cliente-servidor usando socket
 
-El propósito de la actividad es introducir a los estudiantes en los conceptos básicos de los sistemas distribuidos, como la comunicación entre nodos, la coordinación y la tolerancia a fallos. En este caso se usarán **Jupyter Notebooks** y el módulo **socket** de Python.
+El propósito de la actividad es introducir a los estudiantes en los conceptos básicos de los sistemas distribuidos, como la comunicación entre nodos, la coordinación y la tolerancia a fallos. En este caso se usarán **Jupyter Notebooks** y el módulo **socket** de Python. **socket** es un módulo estándar de python que provee una interface a la [API Berkeley sockets](https://en.wikipedia.org/wiki/Berkeley_sockets).
+
+**Nota:** Un socket es una representación abstracta de un punto local en una red de comunicación.
 
 ![imagen](https://github.com/JesusPenha/Distributed_Systems/assets/38221912/f9cfc2a4-876b-43a7-a386-49aa0f56b01e)
 
@@ -45,4 +48,5 @@ tems. Wiley-Blackwell, Hoboken, NJ.\
 Distributed systems. Pearson, Upper Saddle River, NJ, 2 edition.\
 [Tanenbaum and Van Steen, 2023] Tanenbaum, A. S. and Van Steen, M. (2023).
 Distributed Systems. Maarten Van Steen.\
-https://realpython.com/python-sockets/#background
+https://realpython.com/python-sockets/#background\
+https://docs.python.org/3/library/socket.html
