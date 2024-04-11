@@ -21,15 +21,15 @@ d. Clasificación
 
 ### Actividad: Conexión cliente-servidor usando socket
 
-![imagen](https://github.com/JesusPenha/Distributed_Systems/assets/38221912/f9cfc2a4-876b-43a7-a386-49aa0f56b01e)
-
 El propósito de la actividad es introducir a los estudiantes en los conceptos básicos de los sistemas distribuidos, como la comunicación entre nodos, la coordinación y la tolerancia a fallos. En este caso se usarán **Jupyter Notebooks** y el módulo **socket** de Python.
+
+![imagen](https://github.com/JesusPenha/Distributed_Systems/assets/38221912/f9cfc2a4-876b-43a7-a386-49aa0f56b01e)
 
 En este caso el estudiante creará una conexión cliente-servidor, donde el cliente envía un parámetro numérico al servidor, el servidor ejecuta un cálculo simple usando este parámetro y retorna el resultado al cliente.
 
 Pasos:
 
-1. Cree dos Jupyter Notebooks usando los archivos de apoyo (Server.ipynb y Client.ipynb) dentro de la carpeta  **Introduccion**.
+1. Cree dos Jupyter Notebooks usando los archivos de apoyo (Server.ipynb y Client.ipynb) dentro de la carpeta  **Introduction**.
 2. Modifique el código con el fin de cumplir el objetivo de la actividad.
 3. Ejecute primero el script del servidor y luego el script del cliente.
 4. Discuta las experiencias obtenidas de la práctica.
